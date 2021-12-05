@@ -16,6 +16,7 @@ Project is created with:
 * Tensorflow & Keras
 	
 ## Setup
+Model for brain detection is too large, but you can download this model from [link](https://www.dropbox.com/s/wj4op44hc20fszb/model_brain.h5?dl=0) and put in the "model" folder.
 To run this project:
 
 ```
