@@ -6,7 +6,7 @@
 
 ## General info
 This project is simple web app for tumor detection.
-![This is an image](readme image/Tumor_detec)
+![This is an image](https://github.com/UnknownC3PO/brain_tumor_detection/blob/main/readme%20image/Tumor_detect)
 	
 ## Technologies
 Project is created with:
