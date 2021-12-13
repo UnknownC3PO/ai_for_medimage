@@ -6,6 +6,7 @@
 
 ## General info
 This project is simple web app for tumor detection.
+![This is an image](readme image/Tumor_detec)
 	
 ## Technologies
 Project is created with:
