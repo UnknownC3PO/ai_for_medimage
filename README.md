@@ -9,6 +9,7 @@ This project is simple web app for tumor detection.
 ![This is an image](https://github.com/UnknownC3PO/brain_tumor_detection/blob/main/readme%20image/Tumor_detect)
 <br>
 For example, i have inserted a model for the detection of pneumonia.
+<br>
 ![This is an image](https://github.com/UnknownC3PO/brain_tumor_detection/blob/main/readme%20image/pneumo_detect)
 	
 ## Technologies
