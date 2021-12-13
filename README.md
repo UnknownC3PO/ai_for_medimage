@@ -5,11 +5,11 @@
 * [Setup](#setup)
 
 ## General info
-<p>This project is simple web app for tumor detection.
+This project is simple web app for tumor detection.
 ![This is an image](https://github.com/UnknownC3PO/brain_tumor_detection/blob/main/readme%20image/Tumor_detect)
-</p>
 <br>
-HEllo
+For example, i have inserted a model for the detection of pneumonia.
+![This is an image](https://github.com/UnknownC3PO/brain_tumor_detection/blob/main/readme%20image/pneumo_detect)
 	
 ## Technologies
 Project is created with:
